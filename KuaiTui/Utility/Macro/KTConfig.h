@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  KTConfig.h
 //  KuaiTui
 //
 //  Created by hzf on 16/9/5.
 //  Copyright © 2016年 neitui. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#ifndef KTConfig_h
+#define KTConfig_h
 
-@interface ViewController : UIViewController
 
-
-@end
-
+#endif /* KTConfig_h */
